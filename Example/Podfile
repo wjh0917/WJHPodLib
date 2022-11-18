@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WJHPodLib_Tests' do
+  pod 'WJHPodLib', :path => '../'
+  
+  
+end
