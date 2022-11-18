@@ -1,0 +1,22 @@
+{
+  "name": "WJHPodLib",
+  "version": "0.1.0",
+  "summary": "A short description of WJHPodLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wjh0917/WJHPodLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wjh0917": "934129580@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wjh0917/WJHPodLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "WJHPodLib/Classes/**/*"
+}
